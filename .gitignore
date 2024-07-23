@@ -69,12 +69,3 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/**/Intermediate/*
-
-# Cache files for the editor to use
-DerivedDataCache/*
-Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-Saved/Logs/Toymagine_project.log
-Saved/Telemetry/Telemetry.json
-Saved/Logs/Toymagine_project.log
-/Saved
-/Saved/Logs
